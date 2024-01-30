@@ -21,3 +21,11 @@
 --5.Find category that has been shiped to New Delhi
 
 
+
+--6.Show total number of columns  in Store table
+SELECT COUNT(*) AS total_columns
+FROM USER_TAB_COLUMNS
+WHERE TABLE_NAME = 'STORE';
+
+
+
