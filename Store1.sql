@@ -58,3 +58,44 @@ WHERE TABLE_NAME = 'STORE';
 
 --13.What is the average age of customers for each category?
 
+
+
+--Descriptive Statistics:
+--1.What is the average order amount in the dataset?
+
+
+--2.Can you provide a summary of the distribution of the 'AGE' variable?
+
+
+
+--3.What is the most common 'STATUS' in the dataset?
+
+
+
+--
+--Temporal Analysis:
+
+--1.How does the number of orders vary across different months?
+
+
+
+--2.Is there any noticeable trend or seasonality in the order dates?
+
+
+
+--3.What is the average order amount for each month?
+
+
+
+
+
+--
+--Categorical Analysis:
+--1.What are the top 5 most frequently ordered 'CATEGORY' items?
+
+
+--2.Is there a significant difference in the average order amount between different 'MEDIA' sources?
+
+
+
+--3.Can you identify the most common 'SIZE_ORDERED'?
