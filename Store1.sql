@@ -1,21 +1,27 @@
 ----------------Exploratory Data Analysis-------------------------------------
 --Generic Questions
-
+SELECT *FROM STORE;
 --1.Display distinct age_group.
-select distinct(age_group)
-from store;
+SELECT DISTINCT (AGE_GROUP)
+FROM STORE;
 
 --2.Display distinct category 
-select distinct(category) from store;
+SELECT DISTINCT (CATEGORY)
+FROM STORE;
 
 
 --3.Display customers who have purchased Kurta
-select cust_id,category from store
-where upper(category)='KURTA';
-
+SELECT CUST_ID,CATEGORY
+FROM STORE
+WHERE UPPER(CATEGORY)='KURTA';
 
 --4.Display details of  Teenagers  from karnataka.
 select * from store where lower(age_group)='teenager';
+
+SELECT *
+FROM STORE
+WHERE UPPER(SHIP_STATE)='KARNATAKA'
+AND LOWER(AGE_GROUP)='teenager';
 
 
 
