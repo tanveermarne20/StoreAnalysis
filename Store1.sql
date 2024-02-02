@@ -33,7 +33,9 @@ WHERE TABLE_NAME = 'STORE';
 
 
 --7.How many orders have a status of 'Pending'?
-
+SELECT COUNT(STATUS)
+FROM STORE
+WHERE UPPER(STATUS)='PENDING';
 
 
 --8.Which media type is the most common for orders?
