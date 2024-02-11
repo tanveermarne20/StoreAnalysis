@@ -1,4 +1,4 @@
-<img src="./store.jpg" height="90" style='margin: auto;'>
+<img src="./store.jpg"  style='margin: auto;'>
 # E-commerce Sales Dataset
 
 ## Overview
