@@ -1,4 +1,4 @@
-<img src="./stores.png" style="margin: auto; width: 200px;">
+<img src="./store.jpg"  style='margin: auto;'>
 
 
 ## Overview
