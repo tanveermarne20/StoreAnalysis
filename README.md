@@ -82,7 +82,7 @@ If you would like to contribute or have suggestions for improvement, please open
 8. What is the average order amount for each state in the dataset?
 9. How does the average order amount vary for different countries?
 10. Is there a correlation between the age of customers and the quantity ordered?
-<img src="./Orders.png" style="margin: auto; width: 40%;"> <img src="./Buyers.png" style="margin: auto; width: 40%;">
+<img src="./Orders.png" style="margin: auto; width: 48%;"> <img src="./Buyers.png" style="margin: auto; width: 48%;">
 
 ## View
 1. CREATE A VIEW AND DISPLAY WHICH STATE HAS MAXIMUM PUSRCHASE POWER
@@ -106,4 +106,4 @@ If you would like to contribute or have suggestions for improvement, please open
 ##  MATERIALIZED VIEW
 1. WHICH STATE HAS MAXIMUM PUSRCHASE POWER?
 2. WHICH ITEMS IN MAHARASHTRA ARE TOP SELLING?
-<img src="./Purchasepowerstate.png" style="margin: auto; width: 40%;">
+<img src="./Purchasepowerstate.png" style="margin: auto; width: 40%;"> <img src="./Topsellingproduct.png" style="margin: auto; width: 40%;">
