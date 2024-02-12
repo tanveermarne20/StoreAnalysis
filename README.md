@@ -82,7 +82,7 @@ If you would like to contribute or have suggestions for improvement, please open
 8. What is the average order amount for each state in the dataset?
 9. How does the average order amount vary for different countries?
 10. Is there a correlation between the age of customers and the quantity ordered?
-
+<img src="./Orders.png"  style='margin: auto;'>
 
 ## View
 1. CREATE A VIEW AND DISPLAY WHICH STATE HAS MAXIMUM PUSRCHASE POWER
