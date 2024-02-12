@@ -50,6 +50,6 @@ If you would like to contribute or have suggestions for improvement, please open
 For any questions or feedback regarding this project, please reach out to:
 
 - Project Maintainer: Tanvir Marne
-- Email: [tanveermarne@gmail.com](tanveermarne20@gmail.com)
+- Email: [tanveermarne20@gmail.com](tanveermarne20@gmail.com)
 - LinkedIn: [Tanvir Marne](https://www.linkedin.com/in/tanvirmarne2024/)
 - GitHub: [Tanvir Marne](https://github.com/tanveermarne20)
