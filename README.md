@@ -83,7 +83,7 @@ If you would like to contribute or have suggestions for improvement, please open
 9. How does the average order amount vary for different countries?
 10. Is there a correlation between the age of customers and the quantity ordered?
 <img src="./Orders.png" style="margin: auto; width: 50%;">
-
+<img src="./Buyers.png" style="margin: auto; width: 50%;">
 
 ## View
 1. CREATE A VIEW AND DISPLAY WHICH STATE HAS MAXIMUM PUSRCHASE POWER
