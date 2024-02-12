@@ -57,7 +57,7 @@ If you would like to contribute or have suggestions for improvement, please open
 9. WHICH IS THE MOST COMMON MEDIA DOES PEOPLE PREFERED?
 
 
-##Descriptive Statistics:
+## Descriptive Statistics:
 1. What is the average order amount in the dataset?
 2. Can you provide a summary of the distribution of the 'AGE' variable?
 3. What is the most common 'STATUS' in the dataset?
@@ -70,7 +70,7 @@ If you would like to contribute or have suggestions for improvement, please open
 10. Is there a correlation between the age of customers and the quantity ordered?
 
 
-##View
+## View
 1. CREATE A VIEW AND DISPLAY WHICH STATE HAS MAXIMUM PUSRCHASE POWER
 2. CREATE A VIEW TO DISPLAY WHICH AGE_GROUP HAVE PURCHASED A LOT
 3. CREATE VIEW TO IDENTIFY TOTAL NUMBER OF ORDERS RECEIVED
@@ -82,7 +82,7 @@ If you would like to contribute or have suggestions for improvement, please open
 9. CREATE A VIEW TO ANALYZE WHICH MONTH GOT HIGHEST SALE/PROFIT
 10. CREATE A VIEW TO IDENTIFY WHICH SHIP_CITY IS LEADING IN KURTA
 11. CREATE A VIEW TO IDENTIFY WHAT ITEM DOES MEN HAVE PURCHASED THE MOST?
-12. CREATE A VIEW FOR HOW MANY WOMEN TEENAGER HAVE PURCHASED  KURTA AND TOTAL REVENURE GENERATEDFROM THAT
+12. CREATE A VIEW FOR HOW MANY WOMEN TEENAGER HAVE PURCHASED  KURTA AND TOTAL REVENURE GENERATED FROM THAT
 13. CREATE A VIEW ,AND IDENTIFY HOW MUCH REVENUE GENERATED FROM SETBETWEEN JAN TO MARCH
 14. CREATE A VIEW HOW MUCH KURTAS HAS DELIVERED BY AMAZON IN THE MONTH ON MARCH IN MUMBAI 
 15. CREATE A VIEW TO IDENTIFY WHICH PRODUCT IS TOP 2 SELLING IN HARYANA?
