@@ -107,4 +107,7 @@ If you would like to contribute or have suggestions for improvement, please open
 ##  MATERIALIZED VIEW
 1. WHICH STATE HAS MAXIMUM PUSRCHASE POWER?
 2. WHICH ITEMS IN MAHARASHTRA ARE TOP SELLING?
+3. CREATE A MATERIALIZED VIEW TO IDENTIFY MUMBAI CITY IS GENERATING HOW MUCH AMOUNT OF PROFIT FROM SET?
+4. CREATE A MATERIALIZED VIEW TO IDENTIFY MUMBAI CITY IS GENERATING HOW MUCH AMOUNT OF PROFIT FROM SET where status IS DELIVERED?
+
 <img src="./Purchasepowerstate.png" style="margin: auto; width: 48%;"><img src="./Topsellingproduct.png" style="margin: auto; width: 48%;">
