@@ -107,4 +107,4 @@ If you would like to contribute or have suggestions for improvement, please open
 ##  MATERIALIZED VIEW
 1. WHICH STATE HAS MAXIMUM PUSRCHASE POWER?
 2. WHICH ITEMS IN MAHARASHTRA ARE TOP SELLING?
-<img src="./Purchasepowerstate.png" style="margin: auto; width: 40%;"> <img src="./Topsellingproduct.png" style="margin: auto; width: 40%;">
+<img src="./Purchasepowerstate.png" style="margin: auto; width: 48%;"><img src="./Topsellingproduct.png" style="margin: auto; width: 48%;">
